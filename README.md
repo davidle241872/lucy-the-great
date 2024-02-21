@@ -1,1 +1,1 @@
-# lucy-the-great
+# Welcome City of Refuge coding bootcamp!
